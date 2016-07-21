@@ -27,6 +27,18 @@
             </intent-filter>
 
         </activity>
+
+        <activity android:name="playerdemo.PLMediaPlayerActivity"
+            android:theme="@style/AppThemeFullscreen" />
+        <!--<activity android:name="playerdemo.PLAudioPlayerActivity" />-->
+        <!--<activity android:name="playerdemo.VideoViewActivity"-->
+            <!--android:theme="@style/AppThemeFullscreen" />-->
+        <!--<activity android:name="playerdemo.PLVideoTextureActivity"-->
+            <!--android:theme="@style/AppThemeFullscreen" />-->
+        <!--<activity android:name="playerdemo.VideoViewActivity"-->
+            <!--android:theme="@style/AppThemeFullscreen" />-->
+        <!--<activity android:name="playerdemo.VideoFileActivity" />-->
+
     </application>
 
 </manifest>
